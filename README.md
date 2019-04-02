@@ -1,4 +1,4 @@
-# apps
+# FlightApp
 
 A new Flutter project.
 
